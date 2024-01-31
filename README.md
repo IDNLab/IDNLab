@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IDNLab
+- 👋 Hi, I’m @IDNLab, nice to be here
 - 👀 I’m interested in Iot, Python coding 
 - 🌱 I’m currently learning Python, Unix sh
 
